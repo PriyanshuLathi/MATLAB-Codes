@@ -1,4 +1,4 @@
-# MATLAB-Codes
+# MATLAB Codes
 
 This repository contains MATLAB files focusing on various studies and simulations related to electrical circuits and control systems. Each file serves as an educational resource, demonstrating the theoretical and practical aspects of different topics.
 
